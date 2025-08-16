@@ -5,7 +5,7 @@ It includes two tasks: performing basic mathematical operations and creating a p
 
 ---
 
-## 📌 Task 1: Perform Basic Mathematical Operations
+##  Task 1: Perform Basic Mathematical Operations
 
 ### Problem Statement
 Write a Python program that:
@@ -32,7 +32,7 @@ Division: 0.5
 
 ---
 
-## 📌 Task 2: Create a Personalized Greeting
+## Task 2: Create a Personalized Greeting
 
 ### Problem Statement
 Write a Python program that:
